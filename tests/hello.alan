@@ -1,0 +1,6 @@
+hello () : proc
+{ 
+   writeString('a'); --gamw ton koniarh!
+}
+(* geia
+*)
